@@ -1,0 +1,4 @@
+E:\GameServer\supersocket-common\bin\Debug\supersocket-common.dll
+E:\GameServer\supersocket-common\bin\Debug\supersocket-common.pdb
+E:\GameServer\supersocket-common\obj\Debug\supersocket-common.dll
+E:\GameServer\supersocket-common\obj\Debug\supersocket-common.pdb

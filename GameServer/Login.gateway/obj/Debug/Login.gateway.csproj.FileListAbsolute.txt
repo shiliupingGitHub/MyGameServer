@@ -1,0 +1,16 @@
+E:\GameServer\Login.gateway\bin\Debug\Login.gateway.exe.config
+E:\GameServer\Login.gateway\bin\Debug\Login.gateway.exe
+E:\GameServer\Login.gateway\bin\Debug\Login.gateway.pdb
+E:\GameServer\Login.gateway\bin\Debug\supersocket.socketbase.dll
+E:\GameServer\Login.gateway\bin\Debug\supersocket-common.dll
+E:\GameServer\Login.gateway\bin\Debug\log4net.dll
+E:\GameServer\Login.gateway\bin\Debug\supersocket.socketbase.pdb
+E:\GameServer\Login.gateway\bin\Debug\supersocket-common.pdb
+E:\GameServer\Login.gateway\obj\Debug\Login.gateway.csprojResolveAssemblyReference.cache
+E:\GameServer\Login.gateway\obj\Debug\Login.gateway.exe
+E:\GameServer\Login.gateway\obj\Debug\Login.gateway.pdb
+E:\GameServer\Login.gateway\bin\Debug\superSocket.socketEngine.dll
+E:\GameServer\Login.gateway\bin\Debug\superSocket.socketEngine.pdb
+E:\GameServer\bin\Login.gateway.exe.config
+E:\GameServer\bin\Login.gateway.exe
+E:\GameServer\bin\Login.gateway.pdb

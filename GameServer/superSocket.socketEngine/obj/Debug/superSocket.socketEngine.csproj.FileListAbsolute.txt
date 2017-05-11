@@ -1,0 +1,10 @@
+E:\GameServer\superSocket.socketEngine\obj\Debug\superSocket.socketEngine.csprojResolveAssemblyReference.cache
+E:\GameServer\superSocket.socketEngine\bin\Debug\superSocket.socketEngine.dll
+E:\GameServer\superSocket.socketEngine\bin\Debug\superSocket.socketEngine.pdb
+E:\GameServer\superSocket.socketEngine\bin\Debug\supersocket-common.dll
+E:\GameServer\superSocket.socketEngine\bin\Debug\supersocket.socketbase.dll
+E:\GameServer\superSocket.socketEngine\bin\Debug\log4net.dll
+E:\GameServer\superSocket.socketEngine\bin\Debug\supersocket-common.pdb
+E:\GameServer\superSocket.socketEngine\bin\Debug\supersocket.socketbase.pdb
+E:\GameServer\superSocket.socketEngine\obj\Debug\superSocket.socketEngine.dll
+E:\GameServer\superSocket.socketEngine\obj\Debug\superSocket.socketEngine.pdb
