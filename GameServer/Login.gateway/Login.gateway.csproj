@@ -54,9 +54,6 @@
     <Compile Include="Session\LoginSession.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\supersocket-common\supersocket.common.csproj">
       <Project>{7b3a88fc-b0f7-454d-9539-d116a78d75bf}</Project>
       <Name>supersocket.common</Name>
