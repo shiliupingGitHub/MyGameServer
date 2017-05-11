@@ -17,3 +17,6 @@ E:\GameServer\bin\Login.gateway.pdb
 E:\MyGameServer\GameServer\bin\Login.gateway.exe.config
 E:\MyGameServer\GameServer\Login.gateway\obj\Debug\Login.gateway.exe
 E:\MyGameServer\GameServer\Login.gateway\obj\Debug\Login.gateway.pdb
+E:\MyGameServer\GameServer\bin\Login.gateway.exe
+E:\MyGameServer\GameServer\bin\Login.gateway.pdb
+E:\MyGameServer\GameServer\Login.gateway\obj\Debug\Login.gateway.csprojResolveAssemblyReference.cache
