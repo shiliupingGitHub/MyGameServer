@@ -7,9 +7,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-public class cmd : CommandBase<LoginSession, BinaryRequestInfo>
+public class cmd : CommandBase<LoginSession, StringRequestInfo>
 {
-    public override void ExecuteCommand(LoginSession session, BinaryRequestInfo requestInfo)
+    public override void ExecuteCommand(LoginSession session, StringRequestInfo requestInfo)
     {
         
         session.Send("hello world :");

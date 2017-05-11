@@ -47,8 +47,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Command\cmd_login.cs" />
-    <Compile Include="LoginGateWayServer.cs" />
+    <Compile Include="Command\cmd.cs" />
+    <Compile Include="GameServer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Session\LoginSession.cs" />
