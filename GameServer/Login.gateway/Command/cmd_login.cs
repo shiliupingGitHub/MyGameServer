@@ -7,13 +7,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-public class cmd_login : CommandBase<LoginSession, StringRequestInfo>
+public class cmd_login : CommandBase<LoginSession, BinaryRequestInfo>
 {
-    public override void ExecuteCommand(LoginSession session, StringRequestInfo requestInfo)
+    public override void ExecuteCommand(LoginSession session, BinaryRequestInfo requestInfo)
     {
-        string userName = requestInfo.Parameters[0];
-        string passwrd = requestInfo.Parameters[1];
-        session.Send("hello world :" + userName);
+       
+        session.Send("hello world :");
     }
 }
 
