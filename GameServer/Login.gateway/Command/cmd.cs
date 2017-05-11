@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-public class cmd_login : CommandBase<LoginSession, BinaryRequestInfo>
+public class cmd : CommandBase<LoginSession, BinaryRequestInfo>
 {
     public override void ExecuteCommand(LoginSession session, BinaryRequestInfo requestInfo)
     {
