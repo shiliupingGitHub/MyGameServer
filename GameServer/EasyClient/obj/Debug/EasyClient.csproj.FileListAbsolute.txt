@@ -1,0 +1,5 @@
+E:\MyGameServer\GameServer\EasyClient\bin\Debug\EasyClient.dll
+E:\MyGameServer\GameServer\EasyClient\bin\Debug\EasyClient.pdb
+E:\MyGameServer\GameServer\EasyClient\obj\Debug\EasyClient.csprojResolveAssemblyReference.cache
+E:\MyGameServer\GameServer\EasyClient\obj\Debug\EasyClient.dll
+E:\MyGameServer\GameServer\EasyClient\obj\Debug\EasyClient.pdb
