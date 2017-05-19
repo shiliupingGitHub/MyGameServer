@@ -54,6 +54,10 @@
     <Compile Include="Session\LoginSession.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\EasyClient\EasyClient.csproj">
+      <Project>{824a638d-f530-478b-b35b-a5f1164542de}</Project>
+      <Name>EasyClient</Name>
+    </ProjectReference>
     <ProjectReference Include="..\supersocket-common\supersocket.common.csproj">
       <Project>{7b3a88fc-b0f7-454d-9539-d116a78d75bf}</Project>
       <Name>supersocket.common</Name>

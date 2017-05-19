@@ -19,7 +19,7 @@ namespace Login.gateway
                 Console.ReadKey();
                 return;
             }
-
+        
             if (!appSever.Start())
             {
                 Console.WriteLine("Failed to start!");
