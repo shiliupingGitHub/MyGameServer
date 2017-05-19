@@ -1,0 +1,5 @@
+E:\MyGameServer\GameServer\GameServer.common\bin\Debug\GameServer.common.dll
+E:\MyGameServer\GameServer\GameServer.common\bin\Debug\GameServer.common.pdb
+E:\MyGameServer\GameServer\GameServer.common\obj\Debug\GameServer.common.csprojResolveAssemblyReference.cache
+E:\MyGameServer\GameServer\GameServer.common\obj\Debug\GameServer.common.dll
+E:\MyGameServer\GameServer\GameServer.common\obj\Debug\GameServer.common.pdb

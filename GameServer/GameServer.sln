@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.gateway", "Login.gate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyClient", "EasyClient\EasyClient.csproj", "{824A638D-F530-478B-B35B-A5F1164542DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServer.common", "GameServer.common\GameServer.common.csproj", "{4109ED00-A7A9-4FD0-8066-CD0F48B09019}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{824A638D-F530-478B-B35B-A5F1164542DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{824A638D-F530-478B-B35B-A5F1164542DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{824A638D-F530-478B-B35B-A5F1164542DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4109ED00-A7A9-4FD0-8066-CD0F48B09019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4109ED00-A7A9-4FD0-8066-CD0F48B09019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4109ED00-A7A9-4FD0-8066-CD0F48B09019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4109ED00-A7A9-4FD0-8066-CD0F48B09019}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

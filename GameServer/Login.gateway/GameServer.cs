@@ -7,13 +7,35 @@ using System.Text;
 using System.Threading.Tasks;
 using SuperSocket.SocketBase.Config;
 
-public  class GameServer : AppServer<LoginSession>
+public  class GameServer : SingleTon<GameServer>
 {
+    AppServer<LoginSession> mServer = new AppServer<LoginSession>();
     EasyClient mClient = new EasyClient();
-    protected override bool Setup(IRootConfig rootConfig, IServerConfig config)
+    int mPort = 12021;
+    bool mQuit = false;
+    public void Start()
     {
-        mClient.SetUp();
-        return base.Setup(rootConfig, config);
+        if(mServer.Setup(mPort))
+        {
+            mServer.Logger.Error("fail to listen port:" + mPort);
+        }
+        if (!mServer.Start())
+        {
+            mServer.Logger.Error("Failed to start!");
+            return;
+        }
+        while (!mQuit)
+        {
+            string  command = Console.ReadLine();
+            if (!string.IsNullOrEmpty(command))
+                ExcuteConsleComand(command);
+            continue;
+        }
+        mServer.Stop();
+    }
+    void ExcuteConsleComand(string command)
+    {
+
     }
 }
 
